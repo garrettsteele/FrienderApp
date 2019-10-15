@@ -18,7 +18,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 <ol>
 <li>
 <p>Clone project:</p>
-<pre><code> "git clone https://github.com/hollandjb92/FrienderApp.git"
+<pre><code> 
 </code></pre>
 </li>
 <li>
